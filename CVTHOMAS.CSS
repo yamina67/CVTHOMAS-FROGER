@@ -1,0 +1,207 @@
+body {
+  margin : 0;
+  padding: 0;
+  background-color:  #1d1e22;
+}
+
+
+header {
+  height:100vh;
+  width:100%;
+  background-image: url("IMG/ESPACE.gif");
+  background-size: cover;
+}
+#logo{padding-left: 45px;
+padding-top: 45px;}
+header h1 {font-size:35px;
+          font-family: SF Distant Galaxy Outline;
+          color:White;
+          padding:70px;
+          margin:20px;
+        }
+        #logo1{
+          display: block;
+          margin-left:auto;
+          margin-right: auto;
+
+        }
+
+
+
+
+
+        .boite1 {
+          border:1px solid grey;
+          width:80%;
+          margin-left: auto;
+          margin-right: auto;
+          box-shadow: 30px 10px 30px grey;
+        background-color: #555753;
+        margin-top: 20px;
+        margin-bottom: 20px;
+        }
+
+
+        .boite2 {
+          border:1px solid grey;
+          width:80%;
+          margin-left: auto;
+          margin-right: auto;
+          box-shadow: 30px 10px 30px grey;
+        background-color:  #D1D7E0;
+        margin-top: 20px;
+        margin-bottom: 20px;
+        }
+
+
+        .boite3 {
+          border:2px solid #F0E68C;
+          width:80%;
+          margin-left: auto;
+          margin-right: auto;
+          box-shadow: 30px 10px 30px grey;
+        background-color:  #D1D7E0;
+        margin-top: 20px;
+        margin-bottom: 20px;
+        text-align: justify;
+        }
+
+
+        .boite4 {
+          border:1px solid grey;
+          width:80%;
+          margin-left: auto;
+          margin-right: auto;
+          box-shadow: 30px 10px 30px grey;
+        background-color:  #1d1e25;
+        margin-top: 20px;
+        margin-bottom: 20px;
+        text-align: justify;
+        }
+        .boite5 {
+          border:1px solid grey;
+          width:65%;
+          margin-left: auto;
+          margin-right: auto;
+          box-shadow: 30px 10px 30px grey;
+        background-color:  #1d1e25;
+        margin-top: 20px;
+        margin-bottom: 20px;
+        text-align: justify;
+        }
+
+
+
+
+nav{
+  position: fixed;
+  width: 100%;
+  height:100px;
+  top: 0;
+
+text-align: right;
+}
+
+a:link{
+  color: black;
+  }
+
+a:visited {
+  color: White;
+
+}
+
+
+
+
+nav li{
+
+  display: run-in;
+  font-size: 20px;
+  float: center;
+  font-style: italic;
+  padding-right: 15px;
+  margin-right: 10px;
+
+}
+
+
+
+
+
+
+  section {
+    min-height:100vh;
+}
+
+
+
+
+
+
+
+
+
+p2{
+
+  font-size: 35px;
+  padding-left:auto;
+  padding-right: auto;
+    text-align: justify;
+
+  color: #FFC31E;
+  font-family: SF Distant Galaxy Outline;
+}
+
+
+
+
+
+   h2{
+      text-align: center;
+
+    }
+
+
+
+    h3{
+       text-align: center;
+       color: #FFC31E;
+       font-family: SF Distant Galaxy Outline;
+         font-size: 130px;
+     }
+
+    
+
+
+
+
+p{
+
+  font-size: 32px;
+  padding-left: 10%;
+  padding-right: 10%;
+  text-align: justify;
+  color: #D1D7E0;
+}
+
+
+
+
+
+
+.boite1 li{
+  font-size: 25px;
+  padding-bottom: 20px;
+}
+
+.droite {
+  float:justify;
+
+}
+.droite p{
+  margin-top: 40%;
+  margin-right: 60px;
+  text-align: left;
+  text-align: justify;
+}
